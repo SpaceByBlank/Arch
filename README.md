@@ -1,6 +1,8 @@
 # Arch
 ### To find Applications
 - [Arch Wiki: List of Applications](https://wiki.archlinux.org/title/List_of_applications) – A comprehensive list of applications available for Arch Linux.
+- [AlternativeTo](https://alternativeto.net/) – Find alternatives to popular software for Linux.
+- [FossHub](https://www.fosshub.com/) – Safe, open-source Linux software downloads.
 
 
 
@@ -12,7 +14,10 @@ A curated list of apps, websites, and guides to help beginners start their Arch 
 - [r/linux4noobs: Linux Resources](https://www.reddit.com/r/linux4noobs/wiki/resources/) – Helpful resources for Linux beginners.
 - [Arch Wiki: List of Applications](https://wiki.archlinux.org/title/List_of_applications) – A comprehensive list of apps available for Arch Linux.
 - [Linux Journey](https://linuxjourney.com/) – Beginner-friendly Linux learning platform.
+- [The Linux Command Line](http://linuxcommand.org/) – Free online book to learn Linux commands.
+- [Linux Handbook](https://linuxhandbook.com/) – Guides for Linux commands and administration.
 
+  
 #### Learning Tools & Cheat Sheets
 - [cheat.sh](https://cheat.sh/) – Quick command-line cheat sheets.
 - [TLDR Pages](https://tldr.sh/) – Simplified man pages for Linux commands.
@@ -20,3 +25,11 @@ A curated list of apps, websites, and guides to help beginners start their Arch 
 - [Linuxize](https://linuxize.com/) – Tutorials for common Linux tasks.
   
 I Wish I Had This When I Started Linux
+
+#### Communities
+- [r/linux](https://www.reddit.com/r/linux/) – Linux news, discussions, and help.
+- [r/archlinux](https://www.reddit.com/r/archlinux/) – Arch Linux community support.
+- [LinuxQuestions.org](https://www.linuxquestions.org/) – Forum for Linux questions.
+- [Unix StackExchange](https://unix.stackexchange.com/) – Q&A for Linux/Unix problems.
+- [Arch Linux Forum](https://bbs.archlinux.org/) – Official Arch Linux forum.
+- [Discord Linux Servers](https://discord.com/invite/linux) – Join Linux communities for real-time help.
