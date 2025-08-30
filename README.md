@@ -12,7 +12,11 @@ A curated list of apps, websites, and guides to help beginners start their Arch 
 - [r/linux4noobs: Linux Resources](https://www.reddit.com/r/linux4noobs/wiki/resources/) – Helpful resources for Linux beginners.
 - [Arch Wiki: List of Applications](https://wiki.archlinux.org/title/List_of_applications) – A comprehensive list of apps available for Arch Linux.
 - [Linux Journey](https://linuxjourney.com/) – Beginner-friendly Linux learning platform.
-- [OverTheWire](https://overthewire.org/wargames/) – Learn Linux through interactive games.
-- [tldr pages](https://tldr.sh) – Simplified Linux command explanations.
+
+#### Learning Tools & Cheat Sheets
+- [cheat.sh](https://cheat.sh/) – Quick command-line cheat sheets.
+- [TLDR Pages](https://tldr.sh/) – Simplified man pages for Linux commands.
+- [ExplainShell](https://explainshell.com/) – Understand what each part of a shell command does.
+- [Linuxize](https://linuxize.com/) – Tutorials for common Linux tasks.
   
 I Wish I Had This When I Started Linux
