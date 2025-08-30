@@ -27,7 +27,4 @@ A curated list of apps, websites, and guides to help beginners start their Arch 
 ### Communities
 - [r/linux](https://www.reddit.com/r/linux/) – Linux news, discussions, and help.
 - [r/archlinux](https://www.reddit.com/r/archlinux/) – Arch Linux community support.
-- [LinuxQuestions.org](https://www.linuxquestions.org/) – Forum for Linux questions.
-- [Unix StackExchange](https://unix.stackexchange.com/) – Q&A for Linux/Unix problems.
 - [Arch Linux Forum](https://bbs.archlinux.org/) – Official Arch Linux forum.
-- [Discord Linux Servers](https://discord.com/invite/linux) – Join Linux communities for real-time help.
