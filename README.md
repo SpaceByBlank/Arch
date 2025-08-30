@@ -6,7 +6,7 @@
 
 
 ### Resources for Beginners
-A curated list of apps, websites, and guides to help beginners start their Arch Linux journey.
+ Apps, websites, and guides to help beginners start their Arch Linux journey.
 
 - [Arch Wiki: Getting Started](https://wiki.archlinux.org/title/Installation_guide) – Official Arch installation guide, step by step.
 - [Arch Wiki: Beginners’ Guide](https://wiki.archlinux.org/title/Beginners%27_guide) – Easy-to-follow guide for new users.
