@@ -5,7 +5,6 @@ A curated collection of resources, links, and websites to save time and explore 
 ### To find Applications
 - [Arch Wiki: List of Applications](https://wiki.archlinux.org/title/List_of_applications) – A comprehensive list of applications available for Arch Linux.
 - [AlternativeTo](https://alternativeto.net/) – Find alternatives to popular software for Linux.
-- [FossHub](https://www.fosshub.com/) – Safe, open-source Linux software downloads.
 
 
 ### Resources for Beginners
