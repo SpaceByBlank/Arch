@@ -13,6 +13,7 @@ A curated collection of resources, links, and websites to save time and explore 
 - [The Linux Command Line](http://linuxcommand.org/) – Free online book to learn Linux commands.
 - [Linux Handbook](https://linuxhandbook.com/) – Guides for Linux commands and administration.
 - [Guide to start ricing](https://nonomino.is-a.dev/post/guide-to-ricing/) – To start Ricing.
+- [Vim Hero](https://www.vim-hero.com/) – To learn Vim 
 
 ### To find Applications
 - [Arch Wiki: List of Applications](https://wiki.archlinux.org/title/List_of_applications) – A comprehensive list of applications available for Arch Linux.
