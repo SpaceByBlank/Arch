@@ -2,11 +2,6 @@
 
 A curated collection of resources, links, and websites to save time and explore Arch Linux faster.
 
-### To find Applications
-- [Arch Wiki: List of Applications](https://wiki.archlinux.org/title/List_of_applications) – A comprehensive list of applications available for Arch Linux.
-- [AlternativeTo](https://alternativeto.net/) – Find alternatives to popular software for Linux.
-
-
 ### Resources for Beginners
  Apps, websites, and guides to help beginners start their Arch Linux journey.
 
@@ -17,6 +12,11 @@ A curated collection of resources, links, and websites to save time and explore 
 - [Linux Journey](https://linuxjourney.com/) – Beginner-friendly Linux learning platform.
 - [The Linux Command Line](http://linuxcommand.org/) – Free online book to learn Linux commands.
 - [Linux Handbook](https://linuxhandbook.com/) – Guides for Linux commands and administration.
+- [Guide to start ricing](https://nonomino.is-a.dev/post/guide-to-ricing/) – To start Ricing.
+
+### To find Applications
+- [Arch Wiki: List of Applications](https://wiki.archlinux.org/title/List_of_applications) – A comprehensive list of applications available for Arch Linux.
+- [AlternativeTo](https://alternativeto.net/) – Find alternatives to popular software for Linux.
 
   
 ### Learning Tools & Cheat Sheets
